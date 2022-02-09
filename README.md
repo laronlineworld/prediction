@@ -1,1 +1,2 @@
-# prediction
+# Prediction Smart Contract
+
